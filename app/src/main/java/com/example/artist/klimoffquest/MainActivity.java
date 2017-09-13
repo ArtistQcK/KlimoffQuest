@@ -38,5 +38,7 @@ public class MainActivity extends AppCompatActivity {
         int c = 1+1;
         int g = 1+1;
         int q = 1+1;
+
+        String test = "test";
     }
 }
