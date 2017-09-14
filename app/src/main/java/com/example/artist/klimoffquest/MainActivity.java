@@ -34,11 +34,13 @@ public class MainActivity extends AppCompatActivity {
         mInfoTextView.append("y равно: " + y);
     }
     private void TestUpLoad(){
-        int b = 1+1;
+        int b = 3+3;
         int c = 1+1;
         int g = 1+1;
         int q = 1+1;
 
         String test = "test";
+
+        boolean True = false;
     }
 }
