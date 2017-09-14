@@ -42,5 +42,13 @@ public class MainActivity extends AppCompatActivity {
         String test = "test";
 
         boolean True = false;
+        int b1 = 3+3;
+        int c1 = 1+1;
+        int g1 = 1+1;
+        int q1 = 1+1;
+
+        String test1 = "test";
+
+        boolean True1 = false;
     }
 }
